@@ -11,5 +11,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>DevOpsServiceAPI.Data.DevOpsServiceAPIContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Pranay\source\repos\DevOpsServiceAPI\DevOpsServiceAPI\Properties\PublishProfiles\StoreWebApi - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
